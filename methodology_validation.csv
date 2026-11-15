@@ -1,0 +1,10 @@
+﻿Category,Validation,Status,Details
+Data Quality,Required columns,PASS,All required columns available.
+Data Quality,Missing values,PASS,Missing values: 0
+Data Quality,Duplicate event IDs,PASS,Duplicate records: 0
+Data Quality,Risk score boundaries,PASS,Invalid scores: 0
+Risk Scoring,Weighted score calculation,PASS,Inconsistent records: 0
+Risk Classification,Classification thresholds,PASS,Inconsistencies: 0
+MITRE ATT&CK,Mapping status,PASS,Candidate: 1864; Conditional: 599; Needs context: 2537
+MITRE ATT&CK,Candidate technique IDs,PASS,Candidates without technique ID: 0
+NIST CSF,Function taxonomy,PASS,Unrecognized or missing functions: 0

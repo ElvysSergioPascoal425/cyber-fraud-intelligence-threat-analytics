@@ -1,0 +1,6 @@
+﻿Validation,Status,Details
+Recognized mapping statuses,PASS,Invalid statuses: 0
+Candidate technique IDs,PASS,Candidates without ID: 0
+Conditional technique IDs,PASS,Conditional without ID: 0
+Needs context classification,PASS,Needs context with ID: 0
+Total event reconciliation,PASS,Candidate: 1864; Conditional: 599; Needs context: 2537; Total: 5000

@@ -1,0 +1,9 @@
+﻿Threat,Priority,Recommendation,Responsible Area,Suggested Deadline,Monitoring KPI,Event_Volume,Average_Risk,High_Critical_Events
+Malware,Critical,Strengthen endpoint monitoring and response,Security Operations,0-30 days,Mean time to detect,657,46.80837138508371,116
+Device Compromise,High,Improve device integrity and behavioral monitoring,Cybersecurity Engineering,30-60 days,Compromised device detection rate,651,46.88909370199693,112
+Social Engineering,High,Improve social engineering prevention and awareness,Fraud Prevention,30-60 days,Social engineering loss rate,628,46.32531847133758,103
+Credential Stuffing,Critical,Implement credential abuse detection and rate limiting,Fraud Prevention,0-30 days,Credential attack detection rate,612,45.3734477124183,97
+Phishing,High,Improve email security and awareness controls,Cybersecurity,30-60 days,Phishing incident rate,608,45.71159539473685,95
+Account Takeover,Critical,Strengthen adaptive authentication and MFA,Identity & Access Management,0-30 days,Account takeover rate,644,46.05512422360248,92
+Bot Attack,High,Deploy behavioral analytics and bot mitigation,Digital Security,30-60 days,Automated attack detection rate,601,45.48785357737105,90
+Data Exfiltration,Critical,Strengthen DLP and incident response procedures,Information Security,0-30 days,Data exfiltration incidents,599,45.490818030050086,87
